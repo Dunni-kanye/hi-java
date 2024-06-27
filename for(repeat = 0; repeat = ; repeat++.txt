@@ -1,0 +1,9 @@
+		for(repeat = 0; repeat <= ; repeat++){
+			System.out.print("Press any number to contine, or 0 to stop");
+			repeat = input.nextInt();
+
+			System.out.print("Enter first integer: ");
+			firstInt = input.nextInt();
+
+		System.out.print("Enter second integer: ");
+		secondInt = input.nextInt();

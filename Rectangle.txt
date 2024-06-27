@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class Rectangle {
+public Static void main(String[] args) {
+
+Scanner input = new Scanner(System.in);
+
+System.out.print (" collect inputs from the user: ");
+System.out.print (" Enter first value

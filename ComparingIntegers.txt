@@ -1,0 +1,25 @@
+import java.util.scanner;
+public class ComparingIntegers {
+public static void main(String[]args) {
+Scanner input = new Scanner(System.in);
+
+System.out.print(" Enter first integer: ");
+int number = input.nextInt();
+
+int square = number * number;
+
+
+public static String compareWith100(int value){
+if (value > 100) {
+return "greater than";
+
+} else if (value== 100) {
+  return "equal to";
+
+} else {
+    return "less tham";
+
+ 
+      }
+
+   }

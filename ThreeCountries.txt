@@ -1,0 +1,9 @@
+import.java.util.scanner;
+public class ThreeCountries {
+
+public static void main(String[]args) {
+Scanner input = new Scanner(System.in); 
+
+System.out.print(" Enter the first country ")
+String
+  

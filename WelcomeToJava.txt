@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class WelcomeToJava {
+
+public static void main (String[]args) {
+
+Scanner input = new scanner (system.in);
+
+System.out.print (" WelcomeToJava101 ");
+}
+
+ }

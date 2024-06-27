@@ -1,0 +1,6 @@
+Let the first input be represented with "d"
+Let the second input be represented with "g"
+Let the third input be represented with "p" 
+Let the fourth input be represented with "c"
+To find c, enter d and multiply by p
+Then divide with g and you get c.   

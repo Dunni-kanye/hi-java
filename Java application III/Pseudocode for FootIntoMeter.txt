@@ -1,0 +1,6 @@
+Pseudocode For foot into meter
+
+
+If input 1 represent "a" and is equals to 0.305
+If input 2 represent "b" and is equals to 16.5
+Input 3 represent "c" which is a*b to get c.

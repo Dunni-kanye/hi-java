@@ -1,0 +1,17 @@
+import java.util.scanner;
+public class Adekanye {
+
+public static void main(String)[]args) {
+Scanner input = new Scanner (System.in);
+
+System.out.print(" Enter first value: ");
+double number1 = input.nextDouble();
+
+System.out.print(" Enter second value:");
+double number2 = input.nextDouble();
+
+double multiplication = number1 * number2;
+
+Sytem.out.printf(" total is %.2f number1 * number 2, multiplication);
+
+

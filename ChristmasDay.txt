@@ -1,0 +1,17 @@
+   public class ChristmasDay {
+   public static void main(String[]args) {
+
+   Scanner input = new Scanner(System.in);
+	
+	
+	
+	for(int i = 1; i <= 12; i++) {
+	System.out.print("On the" + i + "day of christmas my jesus gave to me");
+	switch( i ) {
+	case 12:
+	}
+
+	}
+   
+  }
+ }
